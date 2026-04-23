@@ -1,1 +1,1 @@
-This lab implements a KNN model to classify an artificial dataset, featuring full data preprocessing and feature scaling. It includes an Elbow Method analysis to determine the optimal 'K' value, effectively minimizing the error rate for more accurate predictions.
+This lab predict the probability of borrowers paying back their loans using Decision Trees and Random Forest classifiers. It includes comprehensive exploratory data analysis, handling of categorical variables through dummy variables, and a performance comparison between single tree and ensemble methods.
